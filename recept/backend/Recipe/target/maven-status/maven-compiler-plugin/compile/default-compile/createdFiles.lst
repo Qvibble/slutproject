@@ -1,0 +1,16 @@
+com\mycompany\recipe\CORSFilter.class
+com\mycompany\recipe\entities\Ingredient.class
+com\mycompany\recipe\entities\Comment.class
+com\mycompany\recipe\resources\JavaEE8Resource.class
+com\mycompany\recipe\resources\UserResource.class
+com\mycompany\recipe\ConnectionFactory.class
+com\mycompany\recipe\entities\Recipe.class
+com\mycompany\recipe\beans\RecipeBean.class
+com\mycompany\recipe\entities\Category.class
+com\mycompany\recipe\resources\CommentResource.class
+com\mycompany\recipe\beans\CommentBean.class
+com\mycompany\recipe\entities\RecipeBuilder.class
+com\mycompany\recipe\entities\User.class
+com\mycompany\recipe\JAXRSConfiguration.class
+com\mycompany\recipe\beans\UserBean.class
+com\mycompany\recipe\resources\RecipeResource.class
